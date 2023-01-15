@@ -4,8 +4,8 @@
 ##### Topics:
 ##### • Regular Expression
 ##### • Tokenization
-##### • **Libraries:** nltk,
+##### • **Libraries:** nltk, spacy
 ### Sentiment Analysis Work [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/Sentiment_Analysis)
 ##### • **Dataset:** movie reviews
 ##### • **Model:** Logistic Regression
-##### • **Libraries:** sklearn, WordCloud, spacy, polyglot, gensim
+##### • **Libraries:** sklearn, WordCloud, , polyglot, gensim
