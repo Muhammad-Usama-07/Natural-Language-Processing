@@ -13,6 +13,7 @@
 
 ##### Topics:
 ##### • Sentiment Prediction
+##### • Model Training & Testing on Test Data
 
 ##### • **Dataset:** movie reviews
 ##### • **Model:** Logistic Regression
