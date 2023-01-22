@@ -8,7 +8,7 @@
 ##### • Lemmatization
 ##### • StopWords
 
-##### • **Libraries:** nltk, spacy, polyglot, gensim, matplotlib
+##### • **Libraries:** sklearn, nltk, spacy, polyglot, gensim, matplotlib
 ### Sentiment Analysis Work [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/Sentiment_Analysis)
 
 ##### Topics:
