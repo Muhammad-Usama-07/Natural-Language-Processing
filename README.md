@@ -4,7 +4,6 @@
 ##### Topics:
 #####   • [Regular Expression](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/af362e09992d49f39e23e3a7ccfc76c0e786ac46/NLP_Basics/workFile.ipynb)
 #####   • [Detect Emoji](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/bc889bb71b5466e982f51ed32547414e6640e1e7/NLP_Basics/workFile.ipynb)
-#####   • Bag-of-Words
 #####   • Tokenization
 #####   • Lemmatization
 #####   • [StopWords](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/02d7986de08967d7aa49fa5e32ca36e503159834/NLP_Basics/workFile.ipynb)
