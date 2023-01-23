@@ -2,8 +2,8 @@
 
 ### Basic Natural Language Processing Work [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/NLP_Basics)
 ##### Topics:
-#####   • Text Processing
 #####   • Regular Expression
+#####   • [Detect Emoji](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/bc889bb71b5466e982f51ed32547414e6640e1e7/NLP_Basics/workFile.ipynb)
 #####   • Bag-of-Words
 #####   • Tokenization
 #####   • Lemmatization
