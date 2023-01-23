@@ -16,7 +16,7 @@
 ##### Topics:
 ##### • Sentiment Detection
 ##### • Model Training & Testing on Test Data
-##### • Word Cloud
+##### • [Word Cloud](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/d77abefbea22c346306426cb01dae3aea26d0b9c/Sentiment_Analysis/WorkFile.ipynb)
 
 ##### **Dataset:** movie reviews
 ##### **Model:** Logistic Regression
