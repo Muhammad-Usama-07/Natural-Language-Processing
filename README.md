@@ -16,6 +16,7 @@
 ##### Topics:
 ##### • Sentiment Prediction
 ##### • Model Training & Testing on Test Data
+##### • Word Cloud
 
 ##### **Dataset:** movie reviews
 ##### **Model:** Logistic Regression
