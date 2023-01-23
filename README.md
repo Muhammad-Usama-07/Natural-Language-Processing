@@ -16,6 +16,6 @@
 ##### • Sentiment Prediction
 ##### • Model Training & Testing on Test Data
 
-##### • **Dataset:** movie reviews
-##### • **Model:** Logistic Regression
-##### • **Libraries:** sklearn, WordCloud
+##### **Dataset:** movie reviews
+##### **Model:** Logistic Regression
+##### **Libraries:** sklearn, WordCloud
