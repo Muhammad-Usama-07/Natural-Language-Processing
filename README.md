@@ -22,4 +22,4 @@
 ##### **Model:** Logistic Regression
 ##### **Libraries:** sklearn, WordCloud
 
-### chatbi
+### chatbot
