@@ -25,5 +25,6 @@
 ### Chatbot Building
 ##### Topics:
 ##### • Intent and Classfication
+##### • Entity Extraction
 
 ##### **Libraries:** spacy
