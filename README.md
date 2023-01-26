@@ -26,5 +26,6 @@
 ##### Topics:
 ##### • Intent and Classfication
 ##### • Entity Extraction
+##### • Convert String to Vector
 
 ##### **Libraries:** spacy
