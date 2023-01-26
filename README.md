@@ -23,5 +23,7 @@
 ##### **Libraries:** sklearn, WordCloud
 
 ### Chatbot Building
+##### Topics:
+##### • Intent and Classfication
 
 ##### **Libraries:** spacy
