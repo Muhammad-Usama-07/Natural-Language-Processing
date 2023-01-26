@@ -27,5 +27,6 @@
 ##### • Intent and Classfication
 ##### • Entity Extraction
 ##### • Convert String to Vector
+##### • RASA-NLU
 
 ##### **Libraries:** spacy, sklearn
