@@ -28,4 +28,4 @@
 ##### • Entity Extraction
 ##### • Convert String to Vector
 
-##### **Libraries:** spacy
+##### **Libraries:** spacy, sklearn
