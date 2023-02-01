@@ -9,6 +9,7 @@
 #####   • [StopWords](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/02d7986de08967d7aa49fa5e32ca36e503159834/NLP_Basics/workFile.ipynb)
 #####   • [Language Detection](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/62b1baeea7a44e8d27922f78d1e0d644ca109e0c/NLP_Basics/workFile.ipynb)
 #####   • [Perform Text Processing using Lemmatization](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/3a8bb11c65de13315e55faaf7e8abc95b0c6d123/NLP_Basics/workFile.ipynb)
+#####   • [Name Entity Recognition](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/654c6f2c79014b756a2befda58a34e4ad41a201a/NLP_Basics/workFile.ipynb)
 #####         • [Break paragraph into sentences](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/0fbe9dfa0481aab5ba63ae4d4f4a7969a8564ea5/NLP_Basics/workFile.ipynb)
 #####         • [Break sentences into tokens](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/0211c3fa8287a4a6238c2a9c4e8e6a1b4d05bf5c/NLP_Basics/workFile.ipynb)
 #####         • [Tag tokens into parts of speech](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/871d159fc5d02169e54565a9bf75d8a83b3a38b0/NLP_Basics/workFile.ipynb)
