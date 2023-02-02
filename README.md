@@ -18,7 +18,7 @@
 #####         • [NER with SpaCy](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/535bbff4c590d176270a98a1a3997eb49be3374d/NLP_Basics/workFile.ipynb)
 
 #####         • [Read Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/ef5b7d69f4cb6916322f3b73c2f5922ef1310338/NLP_Basics/workFile.ipynb)
-
+#####         • [Split Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/79fb5daae9a52e867008e69b4e9ae02fc08b025d/NLP_Basics/workFile.ipynb)
 
 ##### **Libraries:** sklearn, nltk, spacy, polyglot, gensim, matplotlib
 ### Sentiment Analysis Work [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/Sentiment_Analysis)
