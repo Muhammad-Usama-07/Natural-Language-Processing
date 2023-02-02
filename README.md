@@ -25,6 +25,7 @@
 #####         • [Measure accuracy of model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/fafd4f2c1444a811debe2b06a8625e5e53269662/NLP_Basics/workFile.ipynb)
 #####         • [Measure performance of model through confusion matrix](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/d0b8cafb2096766ec41676350dacb11951651c38/NLP_Basics/workFile.ipynb)
 #####         • [Imporve model accuracy](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/main/NLP_Basics/workFile.ipynb)
+#####         • [Inspect model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/ed463c227e895ff720877388adf937b5cc9a4ae0/NLP_Basics/workFile.ipynb)
 
 
 ##### **Libraries:** sklearn, nltk, spacy, polyglot, gensim, matplotlib
