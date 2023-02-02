@@ -20,6 +20,7 @@
 #####         • [Read Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/ef5b7d69f4cb6916322f3b73c2f5922ef1310338/NLP_Basics/workFile.ipynb)
 #####         • [Split Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/79fb5daae9a52e867008e69b4e9ae02fc08b025d/NLP_Basics/workFile.ipynb)
 #####         • [Extract features from text data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/e489c21d35416fd65e6d07e110f864e532d1ef97/NLP_Basics/workFile.ipynb)
+#####         • [Training model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/e673a339e02c0b224db5e5c2a9289982803cc0e3/NLP_Basics/workFile.ipynb)
 
 ##### **Libraries:** sklearn, nltk, spacy, polyglot, gensim, matplotlib
 ### Sentiment Analysis Work [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/Sentiment_Analysis)
