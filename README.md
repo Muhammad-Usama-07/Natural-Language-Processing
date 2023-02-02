@@ -23,6 +23,7 @@
 #####         • [Training model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/e673a339e02c0b224db5e5c2a9289982803cc0e3/NLP_Basics/workFile.ipynb)
 #####         • [Model prediction](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/9ddbcaff034fa08e568af7f5c1527321bf62190f/NLP_Basics/workFile.ipynb)
 #####         • [Measure accuracy of model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/fafd4f2c1444a811debe2b06a8625e5e53269662/NLP_Basics/workFile.ipynb)
+#####         • [Measure performance of model through confusion matrix](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/d0b8cafb2096766ec41676350dacb11951651c38/NLP_Basics/workFile.ipynb)
 
 
 ##### **Libraries:** sklearn, nltk, spacy, polyglot, gensim, matplotlib
