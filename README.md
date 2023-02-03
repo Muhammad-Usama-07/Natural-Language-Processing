@@ -27,6 +27,7 @@
 #####         • [Imporve model accuracy](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/main/NLP_Basics/workFile.ipynb)
 #####         • [Inspect model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/ed463c227e895ff720877388adf937b5cc9a4ae0/NLP_Basics/workFile.ipynb)
 
+#####   • [Sentiment Prediction](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/474bee07ca48de961776a472696deebd259c9f36/Sentiment_Analysis/WorkFile.ipynb)
 #####         • [Read Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/c5bdb75d938d6ac6b9a056907512cd4dcad11faf/Sentiment_Analysis/WorkFile.ipynb)
 #####         • [Create vectors from text data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/293f4f41bb4f9f16b53f4e8b19543ad677ebe678/Sentiment_Analysis/WorkFile.ipynb)
 #####         • [Convert features of vector in dataframe](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/981095c89bb6f6737eb341688598081c97d8340d/Sentiment_Analysis/WorkFile.ipynb)
