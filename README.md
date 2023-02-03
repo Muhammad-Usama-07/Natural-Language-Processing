@@ -27,6 +27,8 @@
 #####         • [Imporve model accuracy](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/main/NLP_Basics/workFile.ipynb)
 #####         • [Inspect model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/ed463c227e895ff720877388adf937b5cc9a4ae0/NLP_Basics/workFile.ipynb)
 
+#####         • [Read Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/c5bdb75d938d6ac6b9a056907512cd4dcad11faf/Sentiment_Analysis/WorkFile.ipynb)
+
 
 ##### **Libraries:** sklearn, nltk, spacy, polyglot, gensim, matplotlib
 ### Sentiment Analysis Work [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/Sentiment_Analysis)
