@@ -51,6 +51,7 @@
 
 ### Chatbot Building [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/Chatbot_Work)
 ##### Topics:
+#####         • [Basic Bot Respond Funtion](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/44491632bcf2fd106958086399ab5686db8c6d40/Chatbot_Work/practice_work.ipynb)
 ##### • Intent and Classfication
 ##### • Entity Extraction
 ##### • Convert String to Vector
