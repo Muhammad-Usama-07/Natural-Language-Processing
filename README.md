@@ -57,6 +57,7 @@
 #####         • [Creating match rules function](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/1db38353d1169801c21d0d914baf7e5f8a9aeeec/Chatbot_Work/practice_work.ipynb)
 #####         • [Creating pronouns replacing fucntion](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/fc74ae79c3148e3a283cc4c90ec5b9eb9bb22f0d/Chatbot_Work/practice_work.ipynb)
 #####         • [Creating response function](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/172ddf48a773c0dfa31c6f78a6bc5a790f00a619/Chatbot_Work/practice_work.ipynb)
+#####         • [Testing bot](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/c8cb6fa126ff1a96895c09a8a8695c56611ffb80/Chatbot_Work/practice_work.ipynb)
 
 ##### • Intent and Classfication
 ##### • Entity Extraction
