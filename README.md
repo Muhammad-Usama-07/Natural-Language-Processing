@@ -55,6 +55,7 @@
 #####         • [Send Message and Recieve Response From Bot (Basic)](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/a78944aa9e93e0601f6bed0d9c4290d42315d037/Chatbot_Work/practice_work.ipynb)
 
 #####         • [Creating match rules function](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/1db38353d1169801c21d0d914baf7e5f8a9aeeec/Chatbot_Work/practice_work.ipynb)
+#####         • [Creating pronouns replacing fucntion](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/fc74ae79c3148e3a283cc4c90ec5b9eb9bb22f0d/Chatbot_Work/practice_work.ipynb)
 
 ##### • Intent and Classfication
 ##### • Entity Extraction
