@@ -68,6 +68,7 @@
 #####         • [Seperating text and lebel data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/85f7dce79c02c107c15853a172d4f556e158b71c/Chatbot_Work/practice_work.ipynb)
 #####         • [Convert text data to vectors](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/73d337d33c002446fd46e102b1d3220b21223730/Chatbot_Work/practice_work.ipynb)
 #####         • [Split data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/93c1cdc7a1942814af5ffed9e02ba2d1032899ae/Chatbot_Work/practice_work.ipynb)
+#####         • [Perform Classification](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/0bb096a3ecbe86307c590ecdab64048131bb0072/Chatbot_Work/practice_work.ipynb)
 
 ##### • Intent and Classfication
 ##### • Entity Extraction
