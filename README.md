@@ -65,6 +65,7 @@
 #####         • [Send message and recieve response from bot](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/e93522a745e81fc9a3a0e2dd4137927e7cd8fcc4/Chatbot_Work/practice_work.ipynb)
 
 #####         • [Read data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/464cfd2e2509d938ac9430f06545a6802a6f263f/Chatbot_Work/practice_work.ipynb)
+#####         • [Seperating text and lebel data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/85f7dce79c02c107c15853a172d4f556e158b71c/Chatbot_Work/practice_work.ipynb)
 
 ##### • Intent and Classfication
 ##### • Entity Extraction
