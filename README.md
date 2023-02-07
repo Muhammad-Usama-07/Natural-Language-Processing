@@ -17,7 +17,7 @@
 #####         • [Print name entities](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/f7df84592f5466782bcb80cadb9cd4f8bdb3ddb8/NLP_Basics/workFile.ipynb)
 #####         • [NER with SpaCy](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/535bbff4c590d176270a98a1a3997eb49be3374d/NLP_Basics/workFile.ipynb)
 
-#####   • [Build New Classsification Model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/d35bced30bbe27751c6f683abb23b1b7f22e3c67/NLP_Basics/workFile.ipynb)
+**[Build New Classsification Model](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/d35bced30bbe27751c6f683abb23b1b7f22e3c67/NLP_Basics/workFile.ipynb)**
 #####         • [Read Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/ef5b7d69f4cb6916322f3b73c2f5922ef1310338/NLP_Basics/workFile.ipynb)
 #####         • [Split Data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/79fb5daae9a52e867008e69b4e9ae02fc08b025d/NLP_Basics/workFile.ipynb)
 #####         • [Extract features from text data](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/e489c21d35416fd65e6d07e110f864e532d1ef97/NLP_Basics/workFile.ipynb)
