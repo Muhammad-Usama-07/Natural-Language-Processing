@@ -32,7 +32,7 @@
 ### Sentiment Analysis Work [here](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/tree/main/Sentiment_Analysis)
 
 ##### Topics:
-##### • [Sentiment Detection](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/b251beb6c435404c97c9c4e523b99235fadcc6cd/Sentiment_Analysis/WorkFile.ipynb)
+**[Sentiment Detection](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/b251beb6c435404c97c9c4e523b99235fadcc6cd/Sentiment_Analysis/WorkFile.ipynb)**
 ##### • Model Training & Testing on Test Data
 ##### • [Create Bag-of-words of sentences](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/ab5d1e4137a24334b21ddf45f9940929d5365092/Sentiment_Analysis/WorkFile.ipynb)
 ##### • [Word Cloud](https://github.com/Muhammad-Usama-07/Natural-Language-Processing/blob/d77abefbea22c346306426cb01dae3aea26d0b9c/Sentiment_Analysis/WorkFile.ipynb)
