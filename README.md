@@ -2,7 +2,7 @@
 Natural-Language-Processing
 </h1>
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/51862131/232579014-1a82f1ca-e9cd-4142-afb0-fbdbe6d54a99.png" alt="Material Bread logo">
+  <img src="https://user-images.githubusercontent.com/51862131/232579014-1a82f1ca-e9cd-4142-afb0-fbdbe6d54a99.png" alt="Material Bread logo">
 </p>
 
 
