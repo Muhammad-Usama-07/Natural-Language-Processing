@@ -2,43 +2,106 @@
 <html>
 <head>
     <title>Chat Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .chat-container {
+            width: 400px;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 4px;
+            padding: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .message-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .message-list li {
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .message-list .sender {
+            background-color: #dcf8c6;
+            text-align: right;
+        }
+
+        .message-list .receiver {
+            background-color: #fff;
+        }
+
+        .message-list .message-content {
+            font-size: 14px;
+        }
+
+        .input-container {
+            display: flex;
+            margin-top: 10px;
+        }
+
+        .input-container input {
+            flex-grow: 1;
+            padding: 8px;
+            border: none;
+            border-radius: 4px;
+        }
+
+        .input-container button {
+            background-color: #4caf50;
+            color: #fff;
+            border: none;
+            padding: 8px 16px;
+            margin-left: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to the Chat Application</h1>
-    <div id="chat-container"></div>
-
-    <form id="message-form">
-        <input type="text" id="message-input" placeholder="Type your message">
-        <button type="submit">Send</button>
-    </form>
+    <div class="chat-container">
+        <ul class="message-list" id="chat-container"></ul>
+        <div class="input-container">
+            <input type="text" id="message-input" placeholder="Type your message">
+            <button type="submit" id="send-button">Send</button>
+        </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/4.4.1/socket.io.min.js"></script>
     <script>
         var socket = io();
 
-        // Function to display a message in the chat container
-        function displayMessage(message) {
-            $("#chat-container").append("<p>" + message + "</p>");
+        function displayMessage(message, sender) {
+            var chatContainer = $("#chat-container");
+            var senderClass = sender === 'server' ? 'receiver' : 'sender';
+            var senderName = sender === 'server' ? 'Server' : 'You';
+            var messageItem = $("<li>").addClass(senderClass);
+            var messageContent = $("<div>").addClass('message-content').text(senderName + ': ' + message);
+            messageItem.append(messageContent);
+            chatContainer.append(messageItem);
+            chatContainer.scrollTop(chatContainer[0].scrollHeight);
         }
 
-        // Event listener for the form submission
-        $("#message-form").submit(function(e) {
-            e.preventDefault();
+        $("#send-button").click(function() {
             var messageInput = $("#message-input");
             var message = messageInput.val();
             messageInput.val("");
 
-            // Display the user's message in the chat container
-            displayMessage("You: " + message);
+            displayMessage(message, 'user');
 
-            // Emit a 'message' event to the server
             socket.emit('message', { 'message': message });
         });
 
-        // Event listener for receiving a message from the server
         socket.on('message', function(data) {
-            displayMessage("Server: " + data['message']);
+            displayMessage(data['message'], 'server');
         });
     </script>
 </body>
