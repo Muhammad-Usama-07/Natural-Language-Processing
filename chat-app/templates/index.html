@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat Application</title>
+</head>
+<body>
+    <h1>Welcome to the Chat Application</h1>
+    <div id="chat-container"></div>
+
+    <form id="message-form">
+        <input type="text" id="message-input" placeholder="Type your message">
+        <button type="submit">Send</button>
+    </form>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/4.4.1/socket.io.min.js"></script>
+    <script>
+        var socket = io();
+
+        // Function to display a message in the chat container
+        function displayMessage(message) {
+            $("#chat-container").append("<p>" + message + "</p>");
+        }
+
+        // Event listener for the form submission
+        $("#message-form").submit(function(e) {
+            e.preventDefault();
+            var messageInput = $("#message-input");
+            var message = messageInput.val();
+            messageInput.val("");
+
+            // Display the user's message in the chat container
+            displayMessage("You: " + message);
+
+            // Emit a 'message' event to the server
+            socket.emit('message', { 'message': message });
+        });
+
+        // Event listener for receiving a message from the server
+        socket.on('message', function(data) {
+            displayMessage("Server: " + data['message']);
+        });
+    </script>
+</body>
+</html>
