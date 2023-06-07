@@ -23,7 +23,11 @@
             display: flex;
             flex-direction: column;
         }
-
+        .chat-heading {
+            font-size: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
         .message-list {
             list-style-type: none;
             padding: 0;
@@ -76,6 +80,7 @@
 </head>
 <body>
     <div class="chat-container">
+        <h2 class="chat-heading">Chat Application</h2>
         <ul class="message-list" id="chat-container"></ul>
         <div class="input-container">
             <input type="text" id="message-input" placeholder="Type your message">
