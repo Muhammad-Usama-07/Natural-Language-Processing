@@ -124,7 +124,8 @@
 
         // Event listener for clearing the chat
         $("#clear-button").click(function() {
-            $("#chat-container").empty();
+            $("#chat-container").empty(); // Clear the chat messages
+            $("#message-input").val(""); // Clear the input text field
         });
     </script>
 </body>
