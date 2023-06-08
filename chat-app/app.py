@@ -69,7 +69,7 @@ def handle_message(data):
     # Implement the logic to process the message, perform sentiment analysis, etc.
 
     # Emit a 'message' event back to the client
-    emit('message', { 'message': 'Processed: ' + message })
+    emit('message', { 'message':  message })
 
 # Run the Flask app
 if __name__ == '__main__':

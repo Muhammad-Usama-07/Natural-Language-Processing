@@ -98,7 +98,7 @@
         function displayMessage(message, sender) {
             var chatContainer = $("#chat-container");
             var senderClass = sender === 'server' ? 'receiver' : 'sender';
-            var senderName = sender === 'server' ? 'Server' : 'You';
+            var senderName = sender === 'server' ? 'bot' : 'You';
             var messageItem = $("<li>").addClass(senderClass);
             var messageContent = $("<div>").addClass('message-content').text(senderName + ': ' + message);
             messageItem.append(messageContent);
