@@ -31,6 +31,21 @@ def match_rule(rules, message):
             if '{0}' in response:
                 phrase = match.group(1)
     return response.format(phrase)
+
+# Creating pronouns replacing fucntion
+def replace_pronouns(message):
+
+    message = message.lower()
+    if 'me' in message:
+        return re.sub('me', 'you', message)
+    if 'my' in message:
+        return re.sub('my', 'your', message)
+    if 'your' in message:
+        return re.sub('your', 'my', message)
+    if 'you' in message:
+        return re.sub('you', 'me', message)
+
+    return message
 ##### chatbot reply start
 
 
