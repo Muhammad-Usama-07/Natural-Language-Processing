@@ -46,6 +46,14 @@ def replace_pronouns(message):
         return re.sub('you', 'me', message)
 
     return message
+
+# Creating response function
+def respond(message):
+    response, phrase = match_rule(rules, message)
+    if '{0}' in response:
+        phrase = replace_pronouns(phrase)
+        response = response.format(phrase)
+    return response
 ##### chatbot reply start
 
 
