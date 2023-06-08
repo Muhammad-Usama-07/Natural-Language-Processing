@@ -1,7 +1,8 @@
 # Import the necessary modules and create a Flask app
 from flask import Flask, render_template
 from flask_socketio import SocketIO, emit
-
+import re
+import random
 app = Flask(__name__)
 # app.config['SECRET_KEY'] = 'your-secret-key'
 socketio = SocketIO(app)
@@ -20,6 +21,16 @@ rules = {'I want (.*)': ['What would it mean if you got {0}',
   'What do you think about {0}',
   'Really--if {0}']}
 
+def match_rule(rules, message):
+    response, phrase = "default", None
+    
+    for pattern, responses in rules.items():
+        match = re.search(pattern, message)
+        if match is not None:
+            response = random.choice(responses)
+            if '{0}' in response:
+                phrase = match.group(1)
+    return response.format(phrase)
 ##### chatbot reply start
 
 
